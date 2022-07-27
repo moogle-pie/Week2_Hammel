@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\desir\source\repos\Week2_Hammel\Base.h(6,11): error C2011: 'car': 'class' type redefinition
+C:\Users\desir\source\repos\Week2_Hammel\Base.h(6): message : see declaration of 'car'
+C:\Users\desir\source\repos\Week2_Hammel\Truck.h(7,26): error C2504: 'car': base class undefined
